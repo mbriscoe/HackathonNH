@@ -1,1 +1,1 @@
-# HackathonNH
+# Newham Hackathon 1
