@@ -1,3 +1,1 @@
-# HackathonNH
-
-testing readme file
+# Newham Hackathon 1
